@@ -1,0 +1,1 @@
+document.write('Wojciech Olsza');
